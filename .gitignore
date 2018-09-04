@@ -332,3 +332,5 @@ ASALocalRun/
 .vscode/tasks.json
 .vscode/launch.json
 .vscode/launch.json
+SolutionBoilerPlate/.vscode/launch.json
+SolutionBoilerPlate/.vscode/tasks.json
